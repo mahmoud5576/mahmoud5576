@@ -17,7 +17,7 @@ My goal is to pursue a **Master's degree in Software Engineering or Data Enginee
 ## 🌐 Connect with me
 
 <p>
-<a href="https://www.linkedin.com/in/mahmoud-galal143/">
+<a href="https://www.linkedin.com/in/mahmoud-galal143/"target="_blank" rel="noopener noreferrer" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
