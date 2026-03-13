@@ -1,6 +1,6 @@
 # Mahmoud Galal
 
-<img src="images/me.jpg" align="right" width="220"/>
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" align="right" width="200"/>
 
 Hello 👋
 
@@ -15,14 +15,13 @@ My goal is to pursue a **Master's degree in Software Engineering or Data Enginee
 
 ---
 
-## Connect with me
+# Connect with me
 
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mahmoud-galal143/)
-[![GitHub](icons/github.png)](https://github.com/yourusername)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/mahmoud-galal143/)
 
 ---
 
-## Current Focus
+# Current Focus
 
 * Data Engineering
 * Data Pipelines & ETL Systems
@@ -32,51 +31,60 @@ My goal is to pursue a **Master's degree in Software Engineering or Data Enginee
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Programming Languages
+## Programming Languages
 
-<a href="#"><img src="icons/python.png" width="40"/></a> <a href="#"><img src="icons/cpp.png" width="40"/></a> <a href="#"><img src="icons/javascript.png" width="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 
 Python • C++ • JavaScript
 
 ---
 
-### Data & Data Engineering
+## Data & Data Engineering
 
-<a href="#"><img src="icons/pandas.png" width="40"/></a> <a href="#"><img src="icons/numpy.png" width="40"/></a> <a href="#"><img src="icons/sql.png" width="40"/></a> <a href="#"><img src="icons/databricks.png" width="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 
-Pandas • NumPy • SQL • Databricks
+Pandas • NumPy • SQL
 
 ---
 
-### Data Engineering Tools
+## Data Engineering Tools
 
-<a href="#"><img src="icons/docker.png" width="40"/></a> <a href="#"><img src="icons/git.png" width="40"/></a> <a href="#"><img src="icons/linux.png" width="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
 Docker • Git • Linux
 
 ---
 
-### Machine Learning
+## Machine Learning
 
-<a href="#"><img src="icons/sklearn.png" width="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 
-Scikit-learn
+Scikit-learn • Machine Learning Models
 
 ---
 
-### Web Development (Previous Experience)
+## Web Development (Previous Experience)
 
-<a href="#"><img src="icons/react.png" width="40"/></a> <a href="#"><img src="icons/html.png" width="40"/></a> <a href="#"><img src="icons/css.png" width="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 
 React • HTML • CSS • JavaScript
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Motor Failure Prediction
+## Motor Failure Prediction
 
 Machine learning model that predicts motor failure using accelerometer sensor data.
 
@@ -89,7 +97,7 @@ Technologies used:
 
 ---
 
-### Smart Financial Advisor (Graduation Project)
+## Smart Financial Advisor (Graduation Project)
 
 A system that analyzes stock data and provides investment recommendations.
 
@@ -101,19 +109,19 @@ Features:
 
 ---
 
-### Job Market Data Analysis
+## Job Market Data Analysis
 
 A project analyzing tech job trends, salary ranges, and in-demand skills using real-world datasets.
 
 ---
 
-### Currency Converter
+## Currency Converter
 
 Frontend web application built with HTML, CSS, and JavaScript.
 
 ---
 
-## Currently Learning
+# Currently Learning
 
 * Data Engineering pipelines
 * Databricks
@@ -122,7 +130,7 @@ Frontend web application built with HTML, CSS, and JavaScript.
 
 ---
 
-## Goals
+# Goals
 
 * Build scalable data pipelines
 * Work on large data processing systems
