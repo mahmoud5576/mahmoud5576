@@ -1,64 +1,130 @@
-# hussainweb
+# Mahmoud Galal
 
-<img src="images/me.jpg" align="right" />
+<img src="images/me.jpg" align="right" width="220"/>
 
-My name is Hussain Abbas, and I go by `hussainweb` online in most places. Over the past two decades, I have built and, more importantly, helped others build computer programs.
+Hello 👋
 
-I work in various areas around Developer Experience  contribute to open-source software (mostly Drupal) as part of my work and out of my own interest. I have a [longer README](https://hussainweb.github.io/README/) if you are interested in more about me.
+My name is **Mahmoud Galal**.
+I am a **Final-Year Software Engineering Student** passionate about **Data Engineering, Data Science, and Software Development**.
+
+Currently, I am focusing on building **data pipelines, data processing systems, and scalable data solutions**.
+
+Previously, I worked on **Frontend Development using React**, and now I am transitioning into **Data Engineering and backend data systems**.
+
+My goal is to pursue a **Master's degree in Software Engineering or Data Engineering** and work on large-scale data systems.
 
 ---
 
-**Social Media:**
+## Connect with me
 
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/mahmoud-galal143/)
+[![GitHub](icons/github.png)](https://github.com/yourusername)
 
-**Currently working with:**
+---
 
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://getcomposer.org/" title="Composer"><img src="icons/composer.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-<a href="https://www.terraform.io/" title="Terraform"><img src="icons/terraform.png" /></a>
-<a href="https://www.ansible.com/" title="Ansible"><img src="icons/ansible.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://www.mysql.com/" title="MySQL"><img src="icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="icons/mariadb.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="icons/phpstorm.png" /></a>
+## Current Focus
 
-**Learning:**
+* Data Engineering
+* Data Pipelines & ETL Systems
+* Data Analysis
+* Machine Learning
+* Distributed Systems
 
-<a href="https://golang.org/" title="Golang"><img src="icons/golang.png" /></a>
-<a href="https://www.rust-lang.org/" title="Rust"><img src="icons/rust.png" /></a>
-<a href="https://dart.dev/" title="Dart"><img src="icons/dartlang.png" /></a>
-<a href="https://flutter.dev/" title="Flutter"><img src="icons/flutter.png" /></a>
+---
 
-**Previously worked with:**
+## Tech Stack
 
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" title="Visual Basic"><img src="icons/vbnet.png" /></a>
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
-<a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a>
-<a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a>
+### Programming Languages
 
-**Currently focused on building:**
+<a href="#"><img src="icons/python.png" width="40"/></a> <a href="#"><img src="icons/cpp.png" width="40"/></a> <a href="#"><img src="icons/javascript.png" width="40"/></a>
 
-- [axl-template](https://github.com/axelerant/axl-template)
-- [db-docker](https://github.com/axelerant/db-docker)
-- [drupalqa](https://github.com/hussainweb/drupalqa)
+Python • C++ • JavaScript
 
-[How did I build this?](https://youtu.be/UqNbBe3lVCI)
+---
+
+### Data & Data Engineering
+
+<a href="#"><img src="icons/pandas.png" width="40"/></a> <a href="#"><img src="icons/numpy.png" width="40"/></a> <a href="#"><img src="icons/sql.png" width="40"/></a> <a href="#"><img src="icons/databricks.png" width="40"/></a>
+
+Pandas • NumPy • SQL • Databricks
+
+---
+
+### Data Engineering Tools
+
+<a href="#"><img src="icons/docker.png" width="40"/></a> <a href="#"><img src="icons/git.png" width="40"/></a> <a href="#"><img src="icons/linux.png" width="40"/></a>
+
+Docker • Git • Linux
+
+---
+
+### Machine Learning
+
+<a href="#"><img src="icons/sklearn.png" width="40"/></a>
+
+Scikit-learn
+
+---
+
+### Web Development (Previous Experience)
+
+<a href="#"><img src="icons/react.png" width="40"/></a> <a href="#"><img src="icons/html.png" width="40"/></a> <a href="#"><img src="icons/css.png" width="40"/></a>
+
+React • HTML • CSS • JavaScript
+
+---
+
+## Featured Projects
+
+### Motor Failure Prediction
+
+Machine learning model that predicts motor failure using accelerometer sensor data.
+
+Technologies used:
+
+* Python
+* Pandas
+* Scikit-learn
+* Data preprocessing
+
+---
+
+### Smart Financial Advisor (Graduation Project)
+
+A system that analyzes stock data and provides investment recommendations.
+
+Features:
+
+* Stock analysis
+* Investment insights
+* Data visualization
+
+---
+
+### Job Market Data Analysis
+
+A project analyzing tech job trends, salary ranges, and in-demand skills using real-world datasets.
+
+---
+
+### Currency Converter
+
+Frontend web application built with HTML, CSS, and JavaScript.
+
+---
+
+## Currently Learning
+
+* Data Engineering pipelines
+* Databricks
+* Distributed Data Systems
+* Cloud Data Platforms
+
+---
+
+## Goals
+
+* Build scalable data pipelines
+* Work on large data processing systems
+* Contribute to data-driven projects
+* Pursue a Master's degree in Software Engineering or Data Engineering
