@@ -22,14 +22,6 @@ My goal is to pursue a **Master's degree in Software Engineering or Data Science
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 
-</a>
-
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-
-</a>
-
 </p>
 
 ---
